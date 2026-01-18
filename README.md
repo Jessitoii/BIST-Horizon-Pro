@@ -36,9 +36,8 @@ This project was engineered to demonstrate scalable software design principles:
 
 | Market Overview | Portfolio & Analytics |
 |:---:|:---:|
-| ![Market View](image_7f0fc5.png) | ![Dark Mode Dashboard](image_8900a9.png) |
-
-*(Note: Replace `image_*.png` with the actual paths to your screenshots in the repo)*
+| ![Market View]<img width="1198" height="831" alt="image" src="https://github.com/user-attachments/assets/6a51ab13-4c9a-47d2-bfa8-278349e01626" />
+ | ![Dark Mode Dashboard] <img width="1199" height="827" alt="image" src="https://github.com/user-attachments/assets/9ba52e93-b215-4208-b58f-87c5cdc3cc3f" />|
 
 ## 📦 Installation & Usage
 
