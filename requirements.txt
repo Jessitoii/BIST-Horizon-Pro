@@ -1,0 +1,5 @@
+requests==2.31.0
+beautifulsoup4==4.12.3
+PyQt5==5.15.10
+dataclasses; python_version < "3.7"
+matplotlib
